@@ -1,4 +1,4 @@
-# Modulle_14_Challenge
+# Algorithmic Trading Strategy using Machine Learning to automate the trade decisions.
 
 This Model helps planning to improve the existing algorithmic trading systems and maintain the firm’s competitive advantage in the market. To do so, we will enhance the existing trading signals with machine learning algorithms that can adapt to new data.
 Instructions:
